@@ -1,2 +1,2 @@
 # mandelbrot
-Mandelbrot-Menge Generator.
+Mandelbrot Set image generator.
